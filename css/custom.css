@@ -1,6 +1,6 @@
 :root {
-  --trans-light: rgba(255, 255, 255, 0.25);
-  --trans-dark: rgba(25, 25, 25, 0.25);
+  --trans-light: rgba(255, 255, 255, 0.45);
+  --trans-dark: rgba(25, 25, 25, 0.45);
   --border-style: 1px solid rgb(169, 169, 169);
   --backdrop-filter: blur(5px) saturate(150%);
 }
